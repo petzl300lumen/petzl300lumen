@@ -1,9 +1,11 @@
 ## ✨ `Добро пожаловать! `
 Я занимаюсь веб-разработкой (Frontend & Backend) а также веб-дизайном. Здесь вы можете ознакомиться с моими проекты.
 
-![Static Badge](https://img.shields.io/badge/Telegram-29D5E6?style=for-the-badge&logo=telegram&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)
-
-[![Static Badge](https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)](https://www.behance.net/ef2e712b)
+[![Static Badge](https://img.shields.io/badge/Telegram-29D5E6?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)
+](https://web.telegram.org/a/#5219210333)
+[![Static Badge](https://img.shields.io/badge/Vkontakne-0073f6?style=for-the-badge&logo=vk&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)
+](https://vk.com/na_mida)
+[![Behance](https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)](https://www.behance.net/ef2e712b)
 
 
 
