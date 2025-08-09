@@ -1,17 +1,17 @@
 ## ✨ `Добро пожаловать! `
 Я занимаюсь веб-разработкой (Frontend & Backend) а также веб-дизайном. Здесь вы можете ознакомиться с моими проекты.
 
-<!--
-**petzl300lumen/petzl300lumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Static Badge](https://img.shields.io/badge/Telegram-29D5E6?style=for-the-badge&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🛠  Tech Stack
+```
+💻 Frontend: JavaScript | React | HTML | CSS 
+🌐 Backend : SQL | Python | Django 
+🔨 Tools: GitHub | Bootstrap
+🎨 Design: Figma | Photoshop | Illustartor
+```
+
+
