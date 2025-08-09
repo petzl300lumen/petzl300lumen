@@ -11,25 +11,25 @@
 
 ### 🛠  Tech Stack
 
-💻 Frontend
+💻 ***Frontend***
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/React-121212?style=flat-square&logo=react)
 ![Static Badge](https://img.shields.io/badge/HTML-121212?style=flat-square&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-121212?style=flat-square&logo=css&logoColor=1291DB)
 
-🌐 Backend
+🌐 ***Backend***
 
 ![Static Badge](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python)
 ![Static Badge](https://img.shields.io/badge/Django-121212?style=flat-square&logo=django)
 ![Static Badge](https://img.shields.io/badge/MySQL-121212?style=flat-square&logo=mysql)
 
-🔨 Tools
+🔨 ***Tools***
 
 ![Static Badge](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-121212?style=flat-square&logo=bootstrap)
 
-🎨 Design
+🎨 ***Design***
 
 ![Static Badge](https://img.shields.io/badge/Figma-121212?style=flat-square&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-121212?style=flat-square&logo=adobeillustrator)
