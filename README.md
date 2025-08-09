@@ -1,4 +1,5 @@
-## Hi there 👋
+## ✨ `Добро пожаловать! `
+Я занимаюсь веб-разработкой (Frontend & Backend) а также веб-дизайном. Здесь вы можете ознакомиться с моими проекты.
 
 <!--
 **petzl300lumen/petzl300lumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
