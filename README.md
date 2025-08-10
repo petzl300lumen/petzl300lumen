@@ -1,9 +1,8 @@
 ## ✨ `Добро пожаловать! `
 Я занимаюсь веб-разработкой (Frontend & Backend), а также веб-дизайном. На этом аккаунте вы можете ознакомиться с моими проектами.
 
-`
-Контакты:
-`
+### *Контакты:*
+
 
 [![Static Badge](https://img.shields.io/badge/Telegram-2fa3d9?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Fweb.telegram.org%2Fa%2F%235219210333)
 ](https://web.telegram.org/a/#5219210333)
